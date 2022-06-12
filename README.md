@@ -1,2 +1,3 @@
-# TAPC-Document
-TAPC-Document
+# TAPC 書庫
+歡迎來到 TAPC 書庫，這裡將會逐步存放各式教學、或相關知識書類文件圖檔等。  
+請直接前往 [Ｗiki](../../wiki) 以察看目錄。  
